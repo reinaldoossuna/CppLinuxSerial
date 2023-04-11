@@ -12,6 +12,7 @@
 #define SERIAL_PORT_SERIAL_PORT_H
 
 // System headers
+#include <cstdint>
 #include <string>
 #include <fstream> // For file I/O (reading/writing to COM port)
 #include <sstream>
